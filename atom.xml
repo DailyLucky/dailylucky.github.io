@@ -3,11 +3,11 @@
   <title>dailylucky的博客</title>
   
   
-  <link href="https://dailylucky.gitee.io/atom.xml" rel="self"/>
+  <link href="http://example.com/atom.xml" rel="self"/>
   
-  <link href="https://dailylucky.gitee.io/"/>
+  <link href="http://example.com/"/>
   <updated>2023-04-16T12:44:47.608Z</updated>
-  <id>https://dailylucky.gitee.io/</id>
+  <id>http://example.com/</id>
   
   <author>
     <name>dailylucky</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello Hexo</title>
-    <link href="https://dailylucky.gitee.io/2023/04/16/hello-world/"/>
-    <id>https://dailylucky.gitee.io/2023/04/16/hello-world/</id>
+    <link href="http://example.com/2023/04/16/hello-world/"/>
+    <id>http://example.com/2023/04/16/hello-world/</id>
     <published>2023-04-16T12:15:32.800Z</published>
     <updated>2023-04-16T12:44:47.608Z</updated>
     
